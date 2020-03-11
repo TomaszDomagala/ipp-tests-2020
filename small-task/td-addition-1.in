@@ -1,0 +1,10 @@
+# OK
+ADD a
+ADD a b
+ADD a b c
+ADD a
+PRINT
+PRINT a
+PRINT a b
+# ERROR
+PRINT a b c

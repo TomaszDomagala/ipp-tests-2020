@@ -1,0 +1,9 @@
+ADD a b c
+ADD x y z
+CHECK a b c
+CHECK a b
+DEL a b
+CHECK a b c
+CHECK a b
+CHECK a
+CHECK x y z

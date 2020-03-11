@@ -1,0 +1,3 @@
+#no '\n' characte
+ADD a b c
+CHECK * * c

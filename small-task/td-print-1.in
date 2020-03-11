@@ -1,0 +1,7 @@
+ADD a b c
+ADD b c a
+ADD c a b
+PRINT a
+PRINT b
+PRINT c
+PRINT
